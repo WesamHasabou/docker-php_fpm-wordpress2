@@ -9,8 +9,8 @@ between the containers.
 To start a wordpress application build the images 
 and run the stack from the top down:
 
-git clone https://github.com/WesamHasabou/docker-php_fpm-wordpress.git
-cd docker-php_fpm-wordpress
+git clone https://github.com/WesamHasabou/docker-php_fpm-wordpress2.git
+cd docker-php_fpm-wordpress2
 
 ######## building images ########
 
