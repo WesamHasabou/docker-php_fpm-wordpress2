@@ -12,6 +12,9 @@ and run the stack from the top down:
 git clone https://github.com/WesamHasabou/docker-php_fpm-wordpress2.git
 cd docker-php_fpm-wordpress2
 
+
+chmod +x run_script.sh
+
 ######## building images ########
 
 cd downloader
