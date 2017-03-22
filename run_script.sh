@@ -9,7 +9,7 @@ cd ../php-fpm
 docker build -t php-fpm .
 cd ../nginx
 docker build -t nginx .
- 
+
 ######## running containers ########
 docker run -it --name downloader downloader
 docker run -d --name my-sql my-sql
